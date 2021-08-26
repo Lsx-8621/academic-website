@@ -39,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_packe: fas
-  link: "mailto:your-862150506@qq.com" 
+  link: "/#contact" 
 - icon: github
   icon_pack: fab
   link: https://github.com/Lsx-8621
