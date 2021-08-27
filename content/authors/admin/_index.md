@@ -60,6 +60,6 @@ highlight_name: false
 
 I am a master student in Ylab of Zhejiang University, where I am engaged in text processing, deep learning, precision medicine and so on. I did my bachelors at school of medicine, Ningbo University.
 
-[Jie Yang](https://jiesutd.github.io/)
+And here is my tutor's ([Jie Yang](https://jiesutd.github.io/)) homepage.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
