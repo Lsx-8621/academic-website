@@ -62,4 +62,4 @@ I am a master student in Ylab of Zhejiang University, where I am engaged in text
 
 And here is my tutor's ([Jie Yang](https://jiesutd.github.io/)) homepage.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} For more information, click {{< staticref "uploads/demo_resume.pdf" "newtab" >}}here{{< /staticref >}}.
